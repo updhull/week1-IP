@@ -1,0 +1,61 @@
+body{
+    
+    margin: 0 auto;
+    text-align: left;
+}
+
+}
+h1{
+    color: brown;
+    border: 0 auto;
+    font-size: xx-large;
+}
+h3{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+#Home{
+    color: blue;
+    border: 1px solid auto;
+    padding: 0 auto;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
+.class{
+    color: chocolate;
+}
+h2{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    display: inline;
+}
+ol{
+    border: 1px dotted brown;
+    height: 90px;
+    width: 250px;
+    overflow: auto;
+}
+a{
+    color:green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
+a:hover{
+    color:red
+}
+a:visited{
+    color: black;
+}
+body{
+    text-align: left;
+    margin:  1px auto;
+    border: 1px solid black;
+    padding: 2px;
+}
+.Home{
+    color:yellowgreen;
+    
+}
